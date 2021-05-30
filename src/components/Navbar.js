@@ -5,8 +5,8 @@ import { Container } from 'react-bootstrap';
 
 const Navbar1 = () => {
     return (
-        <Container>
-            <Navbar sticky="top" variant="sucess" bg="success">
+        <Container fluid='sm'>
+            <Navbar sticky="top" expand="md" variant="sucess" bg="warning">
                 <Navbar.Brand>
                     <Link to="/">Home</Link>
                 </Navbar.Brand>

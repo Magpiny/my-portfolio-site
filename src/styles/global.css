@@ -1,0 +1,6 @@
+body{
+    background-image: url("../images/portfolio-background.svg");
+    background-size: cover;
+    background-color: #009B77; /* Emerald green */
+    color: #e1ad01;
+}
